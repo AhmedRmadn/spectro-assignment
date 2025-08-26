@@ -16,7 +16,7 @@ This project was built as part of the Spectro Systems Assignment.
 * **Spring Security with JWT**:
    - Authentication via /api/auth/login and /api/auth/register
    - Stateless token-based authentication.
-* **Shopping Cart**:
+* **Role-based Access Control**:
    - ADMIN → Full CRUD access.
    - USER → Read-only access
 * **Input Validation**:
